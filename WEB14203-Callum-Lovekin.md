@@ -1,8 +1,6 @@
 # Filtr Findr
 https://github.com/RavensbourneWebMedia/Dynamic-Web/tree/2017/sessions/08
 
-ik;
-
 [File Directory](https://github.com/CallumLovekin28/Open-Innovation-App)
 
 [Website](https://callumlovekin28.github.io/Open-Innovation-App/)
