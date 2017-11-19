@@ -15,9 +15,9 @@ Week 3: [Analyse your favourite app in terms of interface, data and logic]()
 
 Week 4: [What is your biggest learning so far from this project? Create your own title!]() 
 
-Week 5: [Pair up with another person (not your team mate) and give each other feedback on your peer learning mini-lessons.]()
+Week 5: [Pair up with another person and give each other feedback on your peer learning mini-lessons.](https://medium.com/@c.lovekin/peer-feedback-on-javascript-mini-lessons-bea12d7d6c89)
 
-Week 6: [Watch: The best interface is no interface]() 
+Week 6: [Watch: The best interface is no interface](https://medium.com/@c.lovekin/the-best-interface-is-no-interface-5521bfcf1664) 
 
 Week 7: [WTF is an API?]() 
 
