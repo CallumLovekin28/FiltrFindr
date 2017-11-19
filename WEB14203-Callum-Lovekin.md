@@ -1,7 +1,7 @@
 # Filtr Findr
 https://github.com/RavensbourneWebMedia/Dynamic-Web/tree/2017/sessions/08
 
-### GitHubPages
+ik;
 
 [File Directory](https://github.com/CallumLovekin28/Open-Innovation-App)
 
@@ -20,3 +20,20 @@ Week 4: [What is your biggest learning so far from this project? Create your own
 Week 5: [Pair up with another person (not your team mate) and give each other feedback on your peer learning mini-lessons.]()
 
 Week 6: [Watch: The best interface is no interface]() 
+
+Week 7: [WTF is an API?]() 
+
+Week 8: [Reflect on this project as a whole]() 
+
+
+
+Link to your summative presentation
+Preferably a Google Slides link.
+If you use Keynote/Powerpoint export a PDF, upload it to Google Drive or SlideShare, and then grab the link to it.
+Link to your app on gh-pages :octocat:
+Link to your Thimble Firebase pusher
+Link to your Codewars profile
+Any other links that you consider relevant
+
+
+
