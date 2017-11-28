@@ -1,9 +1,9 @@
 # Filtr Findr
 https://github.com/RavensbourneWebMedia/Dynamic-Web/tree/2017/sessions/08
 
-File Directory: [File Directory](https://github.com/CallumLovekin28/Open-Innovation-App)
+File Directory: [All Website Files](https://github.com/CallumLovekin28/Open-Innovation-App)
 
-Github Pages :octocat:: [/Open-Innovation-App/](https://callumlovekin28.github.io/Open-Innovation-App/)
+Github Pages: [Open-Innovation-App](https://callumlovekin28.github.io/Open-Innovation-App/) :octocat:
 
 Code Wars Profile: [Profile]()
 
