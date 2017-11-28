@@ -9,9 +9,9 @@
 
 ### Introduction
 
-Over the course of these projects I have learned not only alot about design but also myself and what I wish to persue in my future career. The last couple months have been a great taster of different elements of design and coding and getting to work with people from a different industry. 
+Over the course of this project I have been pushed in terms of my coding ability which has been challenging but also interesting. I have had to filter through code to find I have one semi colon out of place which stopped everything from working. It's been tedious.
 
-Over the two projects I was working in a group of photography students and 2 web students, we collaborated together to created both a rebrand of a company and an image library. These were both very hands on projects which I enjoyed and put my strengths into.
+But overall this project has pushed me and I have enjoyed it, it has giving me a chance to refresh my memory on CSS, HTML and Javascript. Creating our own databases and a form that pushes data to it was enjoyable, getting the data to show up on our sites was a challenge but we got there.
 
 ### App Links
 
