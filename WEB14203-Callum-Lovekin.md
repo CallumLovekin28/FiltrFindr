@@ -1,5 +1,19 @@
-# Filtr Findr
-https://github.com/RavensbourneWebMedia/Dynamic-Web/tree/2017/sessions/08
+![title](https://raw.githubusercontent.com/CallumLovekin28/FiltrFindr/master/Images/title.jpg)
+## Info
+
+**Name:** Callum Lovekin
+
+**Student Number:** 96454216
+
+**Course:** WEB14203
+
+### Introduction
+
+Over the course of these projects I have learned not only alot about design but also myself and what I wish to persue in my future career. The last couple months have been a great taster of different elements of design and coding and getting to work with people from a different industry. 
+
+Over the two projects I was working in a group of photography students and 2 web students, we collaborated together to created both a rebrand of a company and an image library. These were both very hands on projects which I enjoyed and put my strengths into.
+
+### App Links
 
 File Directory: [All Website Files](https://github.com/CallumLovekin28/Open-Innovation-App)
 
