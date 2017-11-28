@@ -7,10 +7,9 @@ Github Pages: [Open-Innovation-App](https://callumlovekin28.github.io/Open-Innov
 
 Code Wars Profile: [Profile]()
 
-Thimble Firebase Pusher: [Thimble Firebase pusher]()
+Thimble Firebase Pusher: [Thimble](https://thimbleprojects.org/callumlovekin/350524/)
 
 ![blogs](https://raw.githubusercontent.com/CallumLovekin28/CreativeCollaboration/master/Images/blogposts.png)
-### Blogs
 
 Week 1 : [What can be some of the challenges when running a workshop?](https://medium.com/@c.lovekin/what-can-be-some-of-the-challenges-when-running-a-workshop-804fff4134ca) 
 
