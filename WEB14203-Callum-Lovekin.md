@@ -1,13 +1,13 @@
 # Filtr Findr
 https://github.com/RavensbourneWebMedia/Dynamic-Web/tree/2017/sessions/08
 
-[File Directory](https://github.com/CallumLovekin28/Open-Innovation-App)
+File Directory: [File Directory](https://github.com/CallumLovekin28/Open-Innovation-App)
 
-[GitHub Pages](https://callumlovekin28.github.io/Open-Innovation-App/):octocat:
+Github Pages :octocat:: [/Open-Innovation-App/](https://callumlovekin28.github.io/Open-Innovation-App/)
 
-[Codewars Profile]()
+Code Wars Profile: [Profile]()
 
-[Thimble Firebase pusher]()
+Thimble Firebase Pusher: [Thimble Firebase pusher]()
 
 ![blogs](https://raw.githubusercontent.com/CallumLovekin28/CreativeCollaboration/master/Images/blogposts.png)
 ### Blogs
