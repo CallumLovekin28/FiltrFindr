@@ -27,22 +27,14 @@ Week 7: [WTF is an API?]()
 
 Week 8: [Reflect on this project as a whole]() 
 
-### Content 
-research
-inspiration links
-sketches
-wireframes
-broken code
-working code
-screenshots
-mugshots
-
-
-Summative
-Link to your app on gh-pages :octocat:
-Link to your Thimble Firebase pusher
-Link to your Codewars profile
-Any other links that you consider relevant
-
+## Relevant Content
+- research
+- inspiration links
+- sketches
+- wireframes
+- broken code
+- working code
+- screenshots
+- mugshots
 
 
