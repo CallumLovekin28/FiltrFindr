@@ -3,8 +3,13 @@ https://github.com/RavensbourneWebMedia/Dynamic-Web/tree/2017/sessions/08
 
 [File Directory](https://github.com/CallumLovekin28/Open-Innovation-App)
 
-[Website](https://callumlovekin28.github.io/Open-Innovation-App/)
+[GitHub Pages](https://callumlovekin28.github.io/Open-Innovation-App/):octocat:
 
+[Codewars Profile]()
+
+[Thimble Firebase pusher]()
+
+![blogs](https://raw.githubusercontent.com/CallumLovekin28/CreativeCollaboration/master/Images/blogposts.png)
 ### Blogs
 
 Week 1 : [What can be some of the challenges when running a workshop?](https://medium.com/@c.lovekin/what-can-be-some-of-the-challenges-when-running-a-workshop-804fff4134ca) 
@@ -23,11 +28,18 @@ Week 7: [WTF is an API?]()
 
 Week 8: [Reflect on this project as a whole]() 
 
+### Content 
+research
+inspiration links
+sketches
+wireframes
+broken code
+working code
+screenshots
+mugshots
 
 
-Link to your summative presentation
-Preferably a Google Slides link.
-If you use Keynote/Powerpoint export a PDF, upload it to Google Drive or SlideShare, and then grab the link to it.
+Summative
 Link to your app on gh-pages :octocat:
 Link to your Thimble Firebase pusher
 Link to your Codewars profile
