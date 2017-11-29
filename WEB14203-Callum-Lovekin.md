@@ -19,7 +19,7 @@ File Directory: [All Website Files](https://github.com/CallumLovekin28/Open-Inno
 
 Github Pages: [Open-Innovation-App](https://callumlovekin28.github.io/Open-Innovation-App/) :octocat:
 
-Code Wars Profile: [Profile]()
+Code Wars Profile: [Profile](https://www.codewars.com/users/CallumLovekin28)
 
 Thimble Firebase Pusher: [Thimble](https://thimbleprojects.org/callumlovekin/350524/)
 
