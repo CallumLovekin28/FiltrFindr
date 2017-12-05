@@ -42,13 +42,8 @@ Week 7: [WTF is an API?]()
 Week 8: [Reflect on this project as a whole]() 
 
 ## Relevant Content
-- research
-- inspiration links
-- sketches
-- wireframes
-- broken code
-- working code
-- screenshots
-- mugshots
+- Wireframes
+- Broken / Working Code
+
 
 
