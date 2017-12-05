@@ -31,15 +31,15 @@ Week 2: [Why is it important that we prototype our ideas and test it with users?
 
 Week 3: [Analyse your favourite app in terms of interface, data and logic](https://medium.com/@c.lovekin/analyse-your-favourite-app-in-terms-of-interface-data-and-logic-cb054ff9be5c) 
 
-Week 4: [What is your biggest learning so far from this project? Create your own title!]() 
+Week 4: [What is your biggest learning so far from this project? Create your own title!](https://medium.com/@c.lovekin/what-is-my-biggest-learning-so-far-from-the-filtr-findr-project-e792d383197d) 
 
 Week 5: [Pair up with another person and give each other feedback on your peer learning mini-lessons.](https://medium.com/@c.lovekin/peer-feedback-on-javascript-mini-lessons-bea12d7d6c89)
 
 Week 6: [Watch: The best interface is no interface](https://medium.com/@c.lovekin/the-best-interface-is-no-interface-5521bfcf1664) 
 
-Week 7: [WTF is an API?]() 
+Week 7: [WTF is an API?](https://medium.com/@c.lovekin/wtf-is-an-api-b27e7a50d6ff) 
 
-Week 8: [Reflect on this project as a whole]() 
+Week 8: [Reflect on this project as a whole](https://medium.com/@c.lovekin/a-reflection-on-my-filtr-findr-project-d73dd6d3ea44) 
 
 ## Relevant Content
 - Wireframes
