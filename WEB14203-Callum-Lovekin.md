@@ -26,6 +26,7 @@ Thimble Firebase Pusher: [Thimble](https://thimbleprojects.org/callumlovekin/372
 ### Peer Lessons
 
 What are variables and how do you use them? [Interactive Peer Lesson](https://codepen.io/CallumLovekin/pen/vWEQVa)
+
 Meaningful Space & Model Making [PDF Lesson](https://drive.google.com/file/d/1_ralDOeLf9-Y4r_Iy078mbE7E9fZRDC9/view?usp=sharing)
 
 ![blogs](https://raw.githubusercontent.com/CallumLovekin28/CreativeCollaboration/master/Images/blogposts.png)
@@ -46,11 +47,13 @@ Week 7: [WTF is an API?](https://medium.com/@c.lovekin/wtf-is-an-api-b27e7a50d6f
 
 Week 8: [Reflect on this project as a whole](https://medium.com/@c.lovekin/a-reflection-on-my-filtr-findr-project-d73dd6d3ea44) 
 
-## Relevant Content
+### Relevant Content
 
 Wireframes: [App Design](https://drive.google.com/drive/folders/1NZ74Y96kP1g_jUAJPm4jx2utE1M5ZxTz?usp=sharing)
 Video of Mockup: [Video](https://drive.google.com/file/d/0Bxz8JLU6zi9EajZ5RzM1NDRNMEk/view?usp=sharing)
 Where could this app be used?:[Kickstarter](https://drive.google.com/drive/folders/13iqS6ReTiMX1YY2JEHXZJNmMpYOEcLWU?usp=sharing)
+
+### Presentations
 Formative Presentation: [Formative](https://www.codewars.com/users/CallumLovekin28)
 Summative Presentation: [Summative](https://docs.google.com/presentation/d/1oUbxFvFzP3StZCMsfhnWSeTcgVk7vm34sk7qq8MtB_Y/edit?usp=sharing)
 
