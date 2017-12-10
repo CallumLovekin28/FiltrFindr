@@ -56,7 +56,7 @@ Video of Mockup: [Video](https://drive.google.com/file/d/0Bxz8JLU6zi9EajZ5RzM1ND
 Where could this app be used?:[Kickstarter](https://drive.google.com/drive/folders/13iqS6ReTiMX1YY2JEHXZJNmMpYOEcLWU?usp=sharing)
 
 ### Presentations
-Formative Presentation: [Formative](https://www.codewars.com/users/CallumLovekin28)
+Formative Presentation: [Formative](https://drive.google.com/file/d/1snGiclnOEksyXXQjAhJ-_nlUuSOXh-5v/view?usp=sharing)
 
 Summative Presentation: [Summative](https://docs.google.com/presentation/d/1oUbxFvFzP3StZCMsfhnWSeTcgVk7vm34sk7qq8MtB_Y/edit?usp=sharing)
 
