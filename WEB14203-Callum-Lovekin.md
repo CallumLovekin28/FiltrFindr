@@ -50,11 +50,14 @@ Week 8: [Reflect on this project as a whole](https://medium.com/@c.lovekin/a-ref
 ### Relevant Content
 
 Wireframes: [App Design](https://drive.google.com/drive/folders/1NZ74Y96kP1g_jUAJPm4jx2utE1M5ZxTz?usp=sharing)
+
 Video of Mockup: [Video](https://drive.google.com/file/d/0Bxz8JLU6zi9EajZ5RzM1NDRNMEk/view?usp=sharing)
+
 Where could this app be used?:[Kickstarter](https://drive.google.com/drive/folders/13iqS6ReTiMX1YY2JEHXZJNmMpYOEcLWU?usp=sharing)
 
 ### Presentations
 Formative Presentation: [Formative](https://www.codewars.com/users/CallumLovekin28)
+
 Summative Presentation: [Summative](https://docs.google.com/presentation/d/1oUbxFvFzP3StZCMsfhnWSeTcgVk7vm34sk7qq8MtB_Y/edit?usp=sharing)
 
 
